@@ -1,34 +1,30 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Fritz":
+  - firstname: ["Tobias", "T."]
+    url: http://tobiasfritz.science
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Klingler":
+  - firstname: ["Andreas", "A."]
+    url: https://www.uibk.ac.at/th-physik/staff/klingler
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"McNeely":
+  - firstname: ["Drew", "D."]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Wang":
+  - firstname: ["Yuwen", "Y."]
+    url: https://math.moe
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Gonda":
+  - firstname: ["Tomáš", "T."]
+    url: https://www.uibk.ac.at/th-physik/staff/gonda
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Lorenzin":
+  - firstname: ["Antonio", "A."]
+    url: https://sites.google.com/view/antonio-lorenzin
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Stein":
+  - firstname: ["Dario", "D."]
+    url: https://dario-stein.de
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Perrone":
+  - firstname: ["Paolo", "P."]
+    url: http://www.paoloperrone.org/

@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: areeb_cv.pdf # you can also use external links here
+description: Here is hopefully a (relatively recently updated) CV. A pdf version can be reached by clicking the icon labeled "pdf" (which should also specify how recent it is).
 toc:
   sidebar: left
 ---

@@ -1,200 +1,290 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Areeb Shah Mohammed",
+    "label": "Doctoral Student",
+    "image": "prof_pic.jpg",
+    "email": "Areeb.Shah-Mohammed@uibk.ac.at",
+    "phone": "(+43) 512507-53984",
+    "url": "https://www.areebsm.in",
+    "summary": "Doctoral student at the math department of the Universität Innsbruck, interested in (applied) category theory in general and categorical probability in particular.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "2N15 Technikerstraße 21a",
+      "postalCode": "6020 Innsbruck",
+      "city": "Innsbruck",
+      "countryCode": "AT",
+      "region": "Tirol"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "username": "cPsZhacAAAAJ",
+        "url": "https://scholar.google.com/citations?user=cPsZhacAAAAJ"
+      },
+      {
+        "network": "GitHub",
+        "username": "Sir-Danksalot",
+        "url": "https://github.com/Sir-Danksalot"
+      },
+      {
+        "network": "Zotero",
+        "username": "HarrierDuBard",
+        "url": "https://www.zotero.org/harrierdubard"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Department of Mathematics, Universität Innsbruck",
+      "position": "Researcher in Mathematics",
+      "url": "https://www.uibk.ac.at/mathematik/index.html.en",
+      "location": "Innsbruck, Austria",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Employed as a member of the research staff funded by FWF P 35992-N during the course of my doctoral study.",
+      "highlights": ["Delivered a talk at the Applied Category Theory 2023 conference.", "Produced work on hidden Markov models in categorical probability.", "Delivered a talk at the Chennai Mathematical Institute.", "Produced work on laws of large numbers in categorical probability."]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universität Innsbruck",
+      "location": "Innsbruck, Austria",
+      "url": "https://www.uibk.ac.at/mathematik/index.html.en",
+      "area": "Mathematics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022",
+      "endDate": "Present",
+      "score": "",
+      "commentedOut_courses": ["Noncommutative Geometry Seminar", "Mathematics, Informatics, and Physics Seminar"]
+    },
+    {
+      "institution": "Universität Regensburg",
+      "location": "Regensburg, Germany",
+      "url": "https://www.uni-regensburg.de/en",
+      "area": "Mathematics",
+      "studyType": "M.Sc.",
+      "startDate": "2020",
+      "endDate": "2022",
+      "score": "",
+      "commentedOut_courses": [
+        "Higher Category Theory",
+        "Cohomology of Sheaves",
+        "Algebraic Number Theory",
+        "Seminar: Theta functions, complex abelian varieties and moduli spaces",
+        "Higher Category Theory 2",
+        "Cohomology of Sheaves 2",
+        "Seminar: Introduction to Stable Homotopy Theory",
+        "Derived Functors and Cohomology through Higher Categories",
+        "Derived Categories",
+        "Seminar: Topoi, Logic and Forcing",
+        "Seminar: Homotopical Algebra - Model Categories"
+      ],
+      "courses": ["A detailed list of courses can be found in the pdf version."]
+    },
+    {
+      "institution": "Chennai Mathematical Institute",
+      "location": "Chennai, India",
+      "url": "https://www.cmi.ac.in/",
+      "area": "Mathematics and Computer Science",
+      "studyType": "BSc (Honours)",
+      "startDate": "2017",
+      "endDate": "2020",
+      "score": "",
+      "commentedOut_courses": [
+        "Linear Algebra (Algebra 1)", "Real Analysis (Analysis 1)", "Functional Programming in Haskell", "Classical Mechanics", "English Literature", "Group Theory (Algebra 2)", "Multivariable Analysis (Analysis 2)", "Probability Theory", "Discrete Mathematics", "Imperative Programming with Python", "Rings, Fields and Modules (Algebra 3)", "Analysis on Metric Spaces (Analysis 3)", "Calculus", "The Theory of Computation", "Algorithms", "Algebraic Topology (Graduate Topology 2)", "Complex Analysis", "Point-Set Topology (Topology)", "Differential Equations", "The Design of Programming Languages (PLC)", "Algebraic Geometry 1", "Introductory Type-Theory (Proofs and Types)", "Introduction to Manifolds", "Introduction to Formal Logic", "Geometric Group Theory", "Algebraic Geometry 2", "Galois Theory (Algebra 4)", "The Art of Short Fiction"
+      ],
+      "courses": ["A detailed list of courses can be found in the pdf version."]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "CMI Medal of Excellence",
+      "date": "2020",
+      "awarder": "Chennai Mathematical Institute",
+      "summary": "The CMI medal of excellence is awarded in recognition of outstanding performance in the National Undergraduate Programme in Mathematics and Computer Science.",
+      "url": "https://www.cmi.ac.in/"
+    },
+    {
+      "title": "ANU Future Research Talent Award",
+      "date": "2020",
+      "awarder": "Australian National University",
+      "summary": "The FRT is a competitive and prestigious program that attracts the very best international students from high-quality Indian institutions and provides them exposure to ANU research in the Science, Health, Medicine and Computer Science disciplines.",
+      "url": "https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india"
+    },
+    {
+      "title": "SN Bose Scholars Program",
+      "date": "Summer 2019",
+      "awarder": "SERB, DST, IUSSTF, WINStep Forward",
+      "summary": "The Science and Engineering Board, Department of Science and Technology, Govt. of India, the Indo-U.S. Science and Technology Forum and WINStep Forward have partnered to develop a student exchange program between premier institutions in India and the United States.",
+      "url": "https://iusstf.org/s-n-bose-scholars-program"
+    },
+    {
+      "title": "KVPY Fellowship",
+      "date": "2017",
+      "awarder": "Department of Science and Technology, Govt. of India",
+      "summary": "The Kishore Vaigyanik Protsahan Yojana is a National Program of Fellowship in Basic Sciences, awarded by the Department of Science and Technology, Government of India.",
+      "url": "http://www.kvpy.iisc.ernet.in/main/index.htm"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Empirical Measures and Strong Laws of Large Numbers in Categorical Probability",
+      "publisher": "preprint",
+      "releaseDate": "27 March 2025",
+      "url": "https://arxiv.org/abs/2503.21576",
+      "summary": "We axiomatize the notion of empirical measure in the context of categorical probability and prove a strong law of large numbers for it."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
+      "name": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
+      "publisher": "preprint",
+      "releaseDate": "26 January 2024",
+      "url": "https://arxiv.org/abs/2401.14669",
+      "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."
+  }
+  ],
+  "volunteer": [
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "organization": "Náboj",
+      "url": "https://math.naboj.org/gb/en/",
+      "position": "Organiser",
+      "startDate": "2024-04-19",
+      "endDate": "2024-04-19",
+      "summary": "Náboj is an international mathematical competition designed for teams of five high‑school students that represent their schools.",
+      "highlights": ["Organising Náboj 2024 at the Universität Innsbruck."]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Mathematics",
+      "level": "Expert",
+      "icon":"fa-solid fa-superscript",
+      "keywords": ["category theory","probability theory","homotopy theory"]
+    },
+    {
+      "name": "Computer Science",
+      "level": "Proficient",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["programming","algorithms","data structures"]
+    },
+    {
+      "name": "LaTeX",
+      "level": "Proficient",
+      "icon":"fa-solid fa-file-alt",
+      "keywords": ["typesetting","document preparation"]
+    },
+    {
+      "name": "Python",
+      "level": "Experienced",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["programming","scripting"]
+    },
+    {
+      "name": "Haskell",
+      "level": "Experienced",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["programming","functional"]
+    },
+    {
+      "name": "GNU Octave",
+      "level": "Beginner",
+      "icon":"fa-solid fa-pie-chart",
+      "keywords": ["programming","numerical analysis"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["programming","object oriented"]
+    },
+    {
+      "name": "C",
+      "level": "Intermediate",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["programming","low level"]
+    },
+    {
+      "name": "Lua",
+      "level": "Beginner",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["programming","scripting"]
+    },
+    {
+      "name": "HTML",
+      "level": "Experienced",
+      "icon":"fa-solid fa-code",
+      "keywords": ["web-dev","markup"]
+    },
+    {
+      "name": "BASH",
+      "level": "Proficient",
+      "icon":"fa-solid fa-terminal",
+      "keywords": ["shell","scripting"]
+    },
+    {
+      "name": "Markdown",
+      "level": "Proficient",
+      "icon":"fa-solid fa-file-alt",
+      "keywords": ["markup","documentation"]
+    },
+    {
+      "name": "Git",
+      "level": "Proficient",
+      "icon":"fa-solid fa-code-branch",
+      "keywords": ["version control","collaboration"]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "icon":"fa-solid fa-cube",
+      "keywords": ["containerization","virtualization"]
+    },
+    {
+      "name": "GNU Make",
+      "level": "Intermediate",
+      "icon":"fa-solid fa-cogs",
+      "keywords": ["build automation","scripting"]
+    },
+    {
+      "name": "Jupyter",
+      "level": "Experienced",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["notebook","data science"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "TOEFL 2019: 119/120",
+      "icon": "fa-solid fa-globe"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "language": "German",
+      "fluency": "B2",
+      "icon": "fa-solid fa-globe"
+    },
+    {
+      "language": "Hindi",
+      "icon": "fa-solid fa-globe"
+    },
+    {
+      "language": "Tamil",
+      "icon": "fa-solid fa-globe"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Mathematics",
+      "icon": "fa-solid fa-superscript",
+      "keywords": ["category theory", "probability", "homotopy theory", "applied mathematics"]
+    },
+    {
+      "name": "Computer Science",
+      "icon":"fa-solid fa-laptop-code",
+      "keywords": ["type theory", "functional programming", "logic", "denotational semantics"]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }
