@@ -1,30 +1,30 @@
-"Fritz":
+"fritz":
   - firstname: ["Tobias", "T."]
     url: http://tobiasfritz.science
 
-"Klingler":
+"klingler":
   - firstname: ["Andreas", "A."]
-    url: https://www.uibk.ac.at/th-physik/staff/klingler
+    url: https://www.andreas-klingler.com
 
-"McNeely":
+"mceely":
   - firstname: ["Drew", "D."]
 
-"Wang":
+"wang":
   - firstname: ["Yuwen", "Y."]
-    url: https://math.moe
+    url: https://www.yuwenwang.me
 
-"Gonda":
+"gonda":
   - firstname: ["Tomáš", "T."]
-    url: https://www.uibk.ac.at/th-physik/staff/gonda
+    url: https://www.uibk.ac.at/mathematik/personal/gonda-tomas/gonda.html
 
-"Lorenzin":
+"lorenzin":
   - firstname: ["Antonio", "A."]
     url: https://sites.google.com/view/antonio-lorenzin
 
-"Stein":
+"stein":
   - firstname: ["Dario", "D."]
     url: https://dario-stein.de
 
-"Perrone":
+"perrone":
   - firstname: ["Paolo", "P."]
-    url: http://www.paoloperrone.org/
+    url: http://www.paoloperrone.org

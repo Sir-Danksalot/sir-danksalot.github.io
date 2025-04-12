@@ -1,3 +1,24 @@
+@unpublished{fritz2025lln,
+  title = {Empirical {{Measures}} and {{Strong Laws}} of {{Large Numbers}} in {{Categorical Probability}}},
+  author = {Fritz, Tobias and Gonda, Tom{\'a}{\v s} and Lorenzin, Antonio and Perrone, Paolo and Shah Mohammed, Areeb},
+  year = {2025},
+  month = mar,
+  number = {arXiv:2503.21576},
+  eprint = {2503.21576},
+  primaryclass = {math.PR},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2503.21576},
+  urldate = {2025-03-31},
+  url={https://arxiv.org/abs/2503.21576},
+  abstract = {The Glivenko-Cantelli theorem is a uniform version of the strong law of large numbers. It states that for every IID sequence of random variables, the empirical measure converges to the underlying distribution (in the sense of uniform convergence of the CDF). In this work, we provide tools to study such limits of empirical measures in categorical probability. We propose two axioms, permutation invariance and empirical adequacy, that a morphism of type $$X^{\mathbb N} \to X$$ should satisfy to be interpretable as taking an infinite sequence as input and producing a sample from its empirical measure as output. Since not all sequences have a well-defined empirical measure, "such empirical sampling morphisms" live in quasi-Markov categories, which, unlike Markov categories, allow partial morphisms. Given an empirical sampling morphism and a few other properties, we prove representability as well as abstract versions of the de Finetti theorem, the Glivenko-Cantelli theorem and the strong law of large numbers. We provide several concrete constructions of empirical sampling morphisms as partially defined Markov kernels on standard Borel spaces. Instantiating our abstract results then recovers the standard Glivenko-Cantelli theorem and the strong law of large numbers for random variables with finite first moment. Our work thus provides a joint proof of these two theorems in conjunction with the de Finetti theorem from first principles.},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Logic in Computer Science,Mathematics - Category Theory,Mathematics - Probability,Mathematics - Statistics Theory,Statistics - Statistics Theory},
+  annote={Preprint},
+  arxiv={2503.21576},
+  preview={Synthetic Glivenko-Cantelli.png},
+  selected={true}
+}
+
 @unpublished{fritz2024hidden,
       title={Hidden Markov Models and the Bayes Filter in Categorical Probability}, 
       author={Tobias Fritz and Andreas Klingler and Drew McNeely and Areeb Shah-Mohammed and Yuwen Wang},
@@ -7,10 +28,12 @@
       archivePrefix={arXiv},
       primaryClass={math.ST},
       annote={Preprint},
+      doi={10.48550/arXiv.2401.14669},
       abstract={We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting. This comprises characterizations of hidden Markov models in terms of local and global conditional independences as well as existing algorithms for Bayesian filtering and smoothing applicable in all Markov categories with conditionals. We show that these algorithms specialize to existing ones such as the Kalman filter, forward-backward algorithm, and the Rauch-Tung-Striebel smoother when instantiated in appropriate Markov categories. Under slightly stronger assumptions, we also prove that the sequence of outputs of the Bayes filter is itself a Markov chain with a concrete formula for its transition maps.
 There are two main features of this categorical framework. The first is its generality, as it can be used in any Markov category with conditionals. In particular, it provides a systematic unified account of hidden Markov models and algorithms for filtering and smoothing in discrete probability, Gaussian probability, measure-theoretic probability, possibilistic nondeterminism and others at the same time. The second feature is the intuitive visual representation of information flow in these algorithms in terms of string diagrams.},
     arxiv={2401.14669},
     preview={hmmcausaldiag.png},
+    code={https://github.com/blackhole89/markovcats/tree/master},
     selected={true}
 }
 @techreport{areeb2021HCP,
