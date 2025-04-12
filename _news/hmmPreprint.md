@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New [preprint]({% post_url 2024-01-26-hmm-preprint %}) - Hidden Markov Models and the Bayes Filter in Categorical Probability
+New [preprint]({% post_url 2024-01-26-hmm-preprint %})! - Hidden Markov Models and the Bayes Filter in Categorical Probability
