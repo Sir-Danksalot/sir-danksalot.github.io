@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-bookshelf",
+          title: "Bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
         },{id: "post-new-preprint",
         
           title: "New Preprint!",
@@ -77,11 +84,11 @@ ninja.data = [{
             window.location.href = "/blog/2024/hmm-preprint/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-rise-and-fall-of-a-brown-water-navy",
+          title: 'The Rise and Fall of a Brown Water Navy',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/2024-02-09-the_rise_and_fall_of_a_brown_water_navy/";
             },},{id: "news-new-preprint-hidden-markov-models-and-the-bayes-filter-in-categorical-probability",
           title: 'New preprint! - Hidden Markov Models and the Bayes Filter in Categorical Probability...',
           description: "",
