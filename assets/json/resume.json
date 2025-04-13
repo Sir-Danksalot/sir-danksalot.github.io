@@ -41,7 +41,12 @@
       "startDate": "2022",
       "endDate": "Present",
       "summary": "Employed as a member of the research staff funded by FWF P 35992-N during the course of my doctoral study.",
-      "highlights": ["Delivered a talk at the Applied Category Theory 2023 conference.", "Produced work on hidden Markov models in categorical probability.", "Delivered a talk at the Chennai Mathematical Institute.", "Produced work on laws of large numbers in categorical probability."]
+      "highlights": [
+        "Delivered a talk at the Applied Category Theory 2023 conference.",
+        "Produced work on hidden Markov models in categorical probability.",
+        "Delivered a talk at the Chennai Mathematical Institute.",
+        "Produced work on laws of large numbers in categorical probability."
+      ]
     }
   ],
   "education": [
@@ -54,7 +59,8 @@
       "startDate": "2022",
       "endDate": "Present",
       "score": "",
-      "commentedOut_courses": ["Noncommutative Geometry Seminar", "Mathematics, Informatics, and Physics Seminar"]
+      "commentedOut_courses": ["Noncommutative Geometry Seminar", "Mathematics, Informatics, and Physics Seminar"],
+      "courses": ["PhD study on the topic of Markov categories and their applications under the supervision of Dr. Tobias Fritz."]
     },
     {
       "institution": "Universität Regensburg",
@@ -78,7 +84,10 @@
         "Seminar: Topoi, Logic and Forcing",
         "Seminar: Homotopical Algebra - Model Categories"
       ],
-      "courses": ["A detailed list of courses can be found in the pdf version."]
+      "courses": [
+        "Took courses in various fields of mathematics, focusing on category theory, homotopy theory, logic, and algebraic geometry.",
+        "Completed a thesis on the topic of higher semiadditivity under the supervision of Dr. Denis‑Charles Cisinski."
+      ]
     },
     {
       "institution": "Chennai Mathematical Institute",
@@ -90,9 +99,39 @@
       "endDate": "2020",
       "score": "",
       "commentedOut_courses": [
-        "Linear Algebra (Algebra 1)", "Real Analysis (Analysis 1)", "Functional Programming in Haskell", "Classical Mechanics", "English Literature", "Group Theory (Algebra 2)", "Multivariable Analysis (Analysis 2)", "Probability Theory", "Discrete Mathematics", "Imperative Programming with Python", "Rings, Fields and Modules (Algebra 3)", "Analysis on Metric Spaces (Analysis 3)", "Calculus", "The Theory of Computation", "Algorithms", "Algebraic Topology (Graduate Topology 2)", "Complex Analysis", "Point-Set Topology (Topology)", "Differential Equations", "The Design of Programming Languages (PLC)", "Algebraic Geometry 1", "Introductory Type-Theory (Proofs and Types)", "Introduction to Manifolds", "Introduction to Formal Logic", "Geometric Group Theory", "Algebraic Geometry 2", "Galois Theory (Algebra 4)", "The Art of Short Fiction"
+        "Linear Algebra (Algebra 1)",
+        "Real Analysis (Analysis 1)",
+        "Functional Programming in Haskell",
+        "Classical Mechanics",
+        "English Literature",
+        "Group Theory (Algebra 2)",
+        "Multivariable Analysis (Analysis 2)",
+        "Probability Theory",
+        "Discrete Mathematics",
+        "Imperative Programming with Python",
+        "Rings, Fields and Modules (Algebra 3)",
+        "Analysis on Metric Spaces (Analysis 3)",
+        "Calculus",
+        "The Theory of Computation",
+        "Algorithms",
+        "Algebraic Topology (Graduate Topology 2)",
+        "Complex Analysis",
+        "Point-Set Topology (Topology)",
+        "Differential Equations",
+        "The Design of Programming Languages (PLC)",
+        "Algebraic Geometry 1",
+        "Introductory Type-Theory (Proofs and Types)",
+        "Introduction to Manifolds",
+        "Introduction to Formal Logic",
+        "Geometric Group Theory",
+        "Algebraic Geometry 2",
+        "Galois Theory (Algebra 4)",
+        "The Art of Short Fiction"
       ],
-      "courses": ["A detailed list of courses can be found in the pdf version."]
+      "courses": [
+        "An undergraduate course in mathematics and computer science, with a wide foundation on algebra, analysis, algorithms, the theory of computation, and programming.",
+        "Additional final year electives focusing on algebraic topology, algebraic geometry, logic, and type theory."
+      ]
     }
   ],
   "awards": [
@@ -140,7 +179,23 @@
       "releaseDate": "26 January 2024",
       "url": "https://arxiv.org/abs/2401.14669",
       "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."
-  }
+    }
+  ],
+  "talks": [
+    {
+      "name": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
+      "date": "2024-01-26",
+      "event": "Chennai Mathematical Institute",
+      "url": "https://www.cmi.ac.in/",
+      "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."
+    },
+    {
+      "name": "Empirical Measures and Strong Laws of Large Numbers in Categorical Probability",
+      "date": "2025-03-27",
+      "event": "Applied Category Theory 2023",
+      "url": "https://act23.appliedcategorytheory.org/",
+      "summary": "We axiomatize the notion of empirical measure in the context of categorical probability and prove a strong law of large numbers for it."
+    }
   ],
   "volunteer": [
     {
@@ -157,98 +212,98 @@
     {
       "name": "Mathematics",
       "level": "Expert",
-      "icon":"fa-solid fa-superscript",
-      "keywords": ["category theory","probability theory","homotopy theory"]
+      "icon": "fa-solid fa-superscript",
+      "keywords": ["category theory", "probability theory", "homotopy theory"]
     },
     {
       "name": "Computer Science",
       "level": "Proficient",
-      "icon":"fa-solid fa-laptop-code",
-      "keywords": ["programming","algorithms","data structures"]
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["programming", "algorithms", "data structures"]
     },
     {
       "name": "LaTeX",
       "level": "Proficient",
-      "icon":"fa-solid fa-file-alt",
-      "keywords": ["typesetting","document preparation"]
+      "icon": "fa-solid fa-file-alt",
+      "keywords": ["typesetting", "document preparation"]
     },
     {
       "name": "Python",
       "level": "Experienced",
-      "icon":"fa-solid fa-laptop-code",
-      "keywords": ["programming","scripting"]
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["programming", "scripting"]
     },
     {
       "name": "Haskell",
       "level": "Experienced",
-      "icon":"fa-solid fa-laptop-code",
-      "keywords": ["programming","functional"]
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["programming", "functional"]
     },
     {
       "name": "GNU Octave",
       "level": "Beginner",
-      "icon":"fa-solid fa-pie-chart",
-      "keywords": ["programming","numerical analysis"]
+      "icon": "fa-solid fa-pie-chart",
+      "keywords": ["programming", "numerical analysis"]
     },
     {
       "name": "Java",
       "level": "Intermediate",
-      "icon":"fa-solid fa-laptop-code",
-      "keywords": ["programming","object oriented"]
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["programming", "object oriented"]
     },
     {
       "name": "C",
       "level": "Intermediate",
-      "icon":"fa-solid fa-laptop-code",
-      "keywords": ["programming","low level"]
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["programming", "low level"]
     },
     {
       "name": "Lua",
       "level": "Beginner",
-      "icon":"fa-solid fa-laptop-code",
-      "keywords": ["programming","scripting"]
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["programming", "scripting"]
     },
     {
       "name": "HTML",
       "level": "Experienced",
-      "icon":"fa-solid fa-code",
-      "keywords": ["web-dev","markup"]
+      "icon": "fa-solid fa-code",
+      "keywords": ["web-dev", "markup"]
     },
     {
       "name": "BASH",
       "level": "Proficient",
-      "icon":"fa-solid fa-terminal",
-      "keywords": ["shell","scripting"]
+      "icon": "fa-solid fa-terminal",
+      "keywords": ["shell", "scripting"]
     },
     {
       "name": "Markdown",
       "level": "Proficient",
-      "icon":"fa-solid fa-file-alt",
-      "keywords": ["markup","documentation"]
+      "icon": "fa-solid fa-file-alt",
+      "keywords": ["markup", "documentation"]
     },
     {
       "name": "Git",
       "level": "Proficient",
-      "icon":"fa-solid fa-code-branch",
-      "keywords": ["version control","collaboration"]
+      "icon": "fa-solid fa-code-branch",
+      "keywords": ["version control", "collaboration"]
     },
     {
       "name": "Docker",
       "level": "Beginner",
-      "icon":"fa-solid fa-cube",
-      "keywords": ["containerization","virtualization"]
+      "icon": "fa-solid fa-cube",
+      "keywords": ["containerization", "virtualization"]
     },
     {
       "name": "GNU Make",
       "level": "Intermediate",
-      "icon":"fa-solid fa-cogs",
-      "keywords": ["build automation","scripting"]
+      "icon": "fa-solid fa-cogs",
+      "keywords": ["build automation", "scripting"]
     },
     {
       "name": "Jupyter",
       "level": "Experienced",
-      "icon":"fa-solid fa-laptop-code",
-      "keywords": ["notebook","data science"]
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["notebook", "data science"]
     }
   ],
   "languages": [
@@ -279,12 +334,10 @@
     },
     {
       "name": "Computer Science",
-      "icon":"fa-solid fa-laptop-code",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": ["type theory", "functional programming", "logic", "denotational semantics"]
     }
   ],
-  "references": [
-  ],
-  "projects": [
-  ]
+  "references": [],
+  "projects": []
 }
