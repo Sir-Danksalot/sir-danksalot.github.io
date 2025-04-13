@@ -41,12 +41,7 @@
       "startDate": "2022",
       "endDate": "Present",
       "summary": "Employed as a member of the research staff funded by FWF P 35992-N during the course of my doctoral study.",
-      "highlights": [
-        "Delivered a talk at the Applied Category Theory 2023 conference.",
-        "Produced work on hidden Markov models in categorical probability.",
-        "Delivered a talk at the Chennai Mathematical Institute.",
-        "Produced work on laws of large numbers in categorical probability."
-      ]
+      "highlights": []
     }
   ],
   "education": [
@@ -134,6 +129,40 @@
       ]
     }
   ],
+  "publications": [
+    {
+      "name": "Empirical Measures and Strong Laws of Large Numbers in Categorical Probability",
+      "publisher": "preprint",
+      "releaseDate": "27 March 2025",
+      "url": "https://arxiv.org/abs/2503.21576",
+      "summary": "We axiomatize the notion of empirical measure in the context of categorical probability and prove a strong law of large numbers for it."
+    },
+    {
+      "name": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
+      "publisher": "preprint",
+      "releaseDate": "26 January 2024",
+      "url": "https://arxiv.org/abs/2401.14669",
+      "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."
+    }
+  ],
+  "talks": [
+    {
+      "title": "Bayesian Filtering and Smoothing in Markov categories",
+      "date": "27 February 2025",
+      "event": "Chennai Mathematical Institute Seminar",
+      "location": "CMI",
+      "url": "https://www.cmi.ac.in/",
+      "summary": "Delivered a talk on recent work formulating Bayesian filtering, smoothing and associated algorithms in Markov categories."
+    },
+    {
+      "title": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
+      "date": "1 August 2023",
+      "event": "Applied Category Theory 2023",
+      "location": "University of Maryland",
+      "url": "https://www.youtube.com/watch?v=PwI3oOXWWe8",
+      "summary": "Delivered a talk on formulating hidden Markov models and Bayesian filtering in Markov categories."
+    }
+  ],
   "awards": [
     {
       "title": "CMI Medal of Excellence",
@@ -165,45 +194,12 @@
     }
   ],
   "certificates": [],
-  "publications": [
-    {
-      "name": "Empirical Measures and Strong Laws of Large Numbers in Categorical Probability",
-      "publisher": "preprint",
-      "releaseDate": "27 March 2025",
-      "url": "https://arxiv.org/abs/2503.21576",
-      "summary": "We axiomatize the notion of empirical measure in the context of categorical probability and prove a strong law of large numbers for it."
-    },
-    {
-      "name": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
-      "publisher": "preprint",
-      "releaseDate": "26 January 2024",
-      "url": "https://arxiv.org/abs/2401.14669",
-      "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."
-    }
-  ],
-  "talks": [
-    {
-      "name": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
-      "date": "2024-01-26",
-      "event": "Chennai Mathematical Institute",
-      "url": "https://www.cmi.ac.in/",
-      "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."
-    },
-    {
-      "name": "Empirical Measures and Strong Laws of Large Numbers in Categorical Probability",
-      "date": "2025-03-27",
-      "event": "Applied Category Theory 2023",
-      "url": "https://act23.appliedcategorytheory.org/",
-      "summary": "We axiomatize the notion of empirical measure in the context of categorical probability and prove a strong law of large numbers for it."
-    }
-  ],
   "volunteer": [
     {
       "organization": "Náboj",
       "url": "https://math.naboj.org/gb/en/",
       "position": "Organiser",
-      "startDate": "2024-04-19",
-      "endDate": "2024-04-19",
+      "date": "2024-04-19",
       "summary": "Náboj is an international mathematical competition designed for teams of five high‑school students that represent their schools.",
       "highlights": ["Organising Náboj 2024 at the Universität Innsbruck."]
     }
