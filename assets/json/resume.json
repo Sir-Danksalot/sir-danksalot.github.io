@@ -152,12 +152,20 @@
   ],
   "talks": [
     {
+      "title": "Partializations of Markov categories",
+      "date": "4 June 2025",
+      "event": "Applied Category Theory 2025",
+      "location": "University of Florida",
+      "url": "https://gataslab.org/act2025/act2025",
+      "summary": "Delivered a talk on a formulation of a category of partial stochastic maps particularly suitable for categorical probability."
+    },
+    {
       "title": "Bayesian Filtering and Smoothing in Markov categories",
       "date": "27 February 2025",
       "event": "Chennai Mathematical Institute Seminar",
       "location": "CMI",
       "url": "https://www.cmi.ac.in/",
-      "summary": "Delivered a talk on recent work formulating Bayesian filtering, smoothing and associated algorithms in Markov categories."
+      "summary": "Delivered a talk on formulating Bayesian filtering, smoothing and associated algorithms in Markov categories."
     },
     {
       "title": "Hidden Markov Models and the Bayes Filter in Categorical Probability",

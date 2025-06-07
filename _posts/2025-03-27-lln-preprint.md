@@ -10,7 +10,7 @@ related_posts: true
 related_publications: fritz2025lln
 ---
 
-We[^1] have finished up a [preprint](https://arxiv.org/abs/2503.21576) {% cite fritz2025lln %} for our work on empirical measures[^2] and laws of large numbers[^3] in the context of Markov categories _(woohoo!)_.
+We[^1] have finished up a preprint {% cite fritz2025lln %} for our work on empirical measures[^2] and laws of large numbers[^3] in the context of Markov categories _(woohoo!)_.
 
 This project had been on the back burner for a _while_, in fact before I'd even started my PhD! Although of course, the approach we're using was developed somewhat more recently :). In fact, it got so big that we needed a bunch of machinery on "partialising" Markov categories that ended up getting split off into its own article. But that's a topic that's got a fair bit of interest on its own accord.
 
