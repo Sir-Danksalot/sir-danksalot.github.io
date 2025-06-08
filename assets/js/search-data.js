@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-new-preprint",
+        },{id: "post-conference-and-talk",
+        
+          title: "Conference and Talk",
+        
+        description: "Applied Category Theory 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/act-talk/";
+          
+        },
+      },{id: "post-new-preprint",
         
           title: "New Preprint!",
         
@@ -89,11 +100,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/2024-02-09-the_rise_and_fall_of_a_brown_water_navy/";
-            },},{id: "news-new-preprint-hidden-markov-models-and-the-bayes-filter-in-categorical-probability",
-          title: 'New preprint! - Hidden Markov Models and the Bayes Filter in Categorical Probability...',
-          description: "",
-          section: "News",},{id: "news-new-preprint-empirical-measures-and-strong-laws-of-large-numbers-in-categorical-probability",
+            },},{id: "news-new-preprint-empirical-measures-and-strong-laws-of-large-numbers-in-categorical-probability",
           title: 'New preprint! - Empirical Measures and Strong Laws of Large Numbers in Categorical...',
+          description: "",
+          section: "News",},{id: "news-i-delivered-a-talk-at-the-applied-category-theory-conference",
+          title: 'I delivered a talk at the Applied Category Theory conference',
+          description: "",
+          section: "News",},{id: "news-i-will-be-presenting-at-the-international-category-theory-2025-conference",
+          title: 'I will be presenting at the International Category Theory 2025 conference',
           description: "",
           section: "News",},{
         id: 'social-email',
