@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Here is hopefully a (relatively recently updated) CV. A pdf version can be reached by clicking the icon labeled &quot;pdf&quot; (which should also specify how recent it is).",
+          description: "Here is a (hopefully relatively recently updated) CV. A pdf version can be reached by clicking the icon labeled &quot;pdf&quot; (which should also specify how recent it is).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -51,7 +51,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-conference-and-talk",
+        },{id: "post-new-preprint",
+        
+          title: "New Preprint!",
+        
+        description: "Work on Partializations of Markov categories",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/partialization-preprint/";
+          
+        },
+      },{id: "post-paper-published",
+        
+          title: "Paper Published!",
+        
+        description: "Work on hidden Markov models in Markov categories",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hmm-acceptance/";
+          
+        },
+      },{id: "post-conference-and-talk",
+        
+          title: "Conference and Talk",
+        
+        description: "International Category Theory 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ct-talk/";
+          
+        },
+      },{id: "post-conference-and-talk",
         
           title: "Conference and Talk",
         
@@ -106,8 +139,14 @@ ninja.data = [{
           section: "News",},{id: "news-i-delivered-a-talk-at-the-applied-category-theory-conference",
           title: 'I delivered a talk at the Applied Category Theory conference',
           description: "",
-          section: "News",},{id: "news-i-will-be-presenting-at-the-international-category-theory-2025-conference",
-          title: 'I will be presenting at the International Category Theory 2025 conference',
+          section: "News",},{id: "news-i-delivered-a-talk-at-the-international-category-theory-2025-conference",
+          title: 'I delivered a talk at the International Category Theory 2025 conference',
+          description: "",
+          section: "News",},{id: "news-my-preprint-hidden-markov-models-and-the-bayes-filter-in-categorical-probability-has-been-published-in-the-september-issue-of-the-ieee-transactions-on-information-theory",
+          title: 'My preprint Hidden Markov Models and the Bayes Filter in Categorical Probability has...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-partializations-of-markov-categories",
+          title: 'New preprint! - Partializations of Markov categories',
           description: "",
           section: "News",},{
         id: 'social-email',
