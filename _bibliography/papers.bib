@@ -1,3 +1,43 @@
+@article{fritz2025HiddenMarkovModels,
+  title = {Hidden {{Markov Models}} and the {{Bayes Filter}} in {{Categorical Probability}}},
+  author = {Fritz, Tobias and Klingler, Andreas and McNeely, Drew and Shah Mohammed, Areeb and Wang, Yuwen},
+  year = {2025},
+  month = sep,
+  journal = {IEEE Transactions on Information Theory},
+  volume = {71},
+  number = {9},
+  pages = {7052--7075},
+  issn = {1557-9654},
+  annote={},
+  doi = {10.1109/TIT.2025.3584695},
+  abstract = {We use Markov categories to generalize the basic theory of Markov chains and hidden Markov models to an abstract setting. This comprises characterizations of hidden Markov models in terms of conditional independences and algorithms for Bayesian filtering and smoothing applicable in all Markov categories with conditionals. When instantiated in appropriate Markov categories, these algorithms specialize to existing ones such as the Kalman filter, forward-backward algorithm, and the Rauch-Tung--Striebel smoother. We also prove that the sequence of outputs of our abstract Bayes filter is itself a Markov chain with a concrete formula for its transition maps. There are two main features of this categorical framework. The first is its abstract generality, as manifested in our unified account of hidden Markov models and algorithms for filtering and smoothing in discrete probability, Gaussian probability, measure-theoretic probability, possibilistic nondeterminism and others at the same time. The second feature is the intuitive visual representation of information flow in terms of string diagrams.},
+  keywords = {Artificial intelligence,Bayes filter,Bayes methods,Bayes smoother,categorical probability,Data mining,Filtering algorithms,Filtering theory,forward-backward algorithm,Hidden Markov model,Hidden Markov models,Information filters,Kalman filter,Kalman filters,Markov category,Rauch-Tung-Striebel smoother,Smoothing methods,string diagrams,Training},
+    preview={hmmcausaldiag.png},
+    arxiv={2401.14669},
+    code={https://github.com/blackhole89/markovcats/tree/master},
+    selected={true}
+}
+
+@unpublished{shahmohammed2025PartializationsMarkovCategories,
+  title = {Partializations of {{Markov}} Categories},
+  author = {Shah Mohammed, Areeb},
+  year = {2025},
+  month = sep,
+  number = {arXiv:2509.05094},
+  eprint = {2509.05094},
+  primaryclass = {math.CT},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2509.05094},
+  url={https://arxiv.org/abs/2509.05094},
+  abstract = {The present work develops a construction of a CD category of partial kernels from a particular type of Markov category called a partializable Markov category. These are a generalization of earlier models of categories of partial morphisms such as p-categories, dominical categories, restriction categories, etc. to a non-deterministic/non-cartesian setting. Here all morphisms are quasi-total, with a natural poset enrichment corresponding to one morphism being a restriction of the other. Furthermore, various properties important to categorical probability are preserved, such as positivity, representability, conditionals, Kolmogorov products, and splittings of idempotents. We additionally discuss an alternative notion of Kolmogorov product suitable for partial maps, as well as partial algebras for probability monads. The primary example is that of the partialization of the category of standard Borel spaces and Markov kernels. Other examples include variants where the distributions are finitely supported, or where one considers multivalued maps instead.},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Logic in Computer Science,Mathematics - Category Theory,Mathematics - Probability},
+  annote={Preprint},
+  arxiv={2509.05094},
+  preview={PartializationComp.png},
+  selected={true}
+}
+
 @unpublished{fritz2025lln,
   title = {Empirical {{Measures}} and {{Strong Laws}} of {{Large Numbers}} in {{Categorical Probability}}},
   author = {Fritz, Tobias and Gonda, Tom{\'a}{\v s} and Lorenzin, Antonio and Perrone, Paolo and Shah Mohammed, Areeb},
@@ -8,7 +48,6 @@
   primaryclass = {math.PR},
   publisher = {arXiv},
   doi = {10.48550/arXiv.2503.21576},
-  urldate = {2025-03-31},
   url={https://arxiv.org/abs/2503.21576},
   abstract = {The Glivenko-Cantelli theorem is a uniform version of the strong law of large numbers. It states that for every IID sequence of random variables, the empirical measure converges to the underlying distribution (in the sense of uniform convergence of the CDF). In this work, we provide tools to study such limits of empirical measures in categorical probability. We propose two axioms, permutation invariance and empirical adequacy, that a morphism of type $$X^{\mathbb N} \to X$$ should satisfy to be interpretable as taking an infinite sequence as input and producing a sample from its empirical measure as output. Since not all sequences have a well-defined empirical measure, "such empirical sampling morphisms" live in quasi-Markov categories, which, unlike Markov categories, allow partial morphisms. Given an empirical sampling morphism and a few other properties, we prove representability as well as abstract versions of the de Finetti theorem, the Glivenko-Cantelli theorem and the strong law of large numbers. We provide several concrete constructions of empirical sampling morphisms as partially defined Markov kernels on standard Borel spaces. Instantiating our abstract results then recovers the standard Glivenko-Cantelli theorem and the strong law of large numbers for random variables with finite first moment. Our work thus provides a joint proof of these two theorems in conjunction with the de Finetti theorem from first principles.},
   archiveprefix = {arXiv},
@@ -19,23 +58,6 @@
   selected={true}
 }
 
-@unpublished{fritz2024hidden,
-      title={Hidden Markov Models and the Bayes Filter in Categorical Probability}, 
-      author={Tobias Fritz and Andreas Klingler and Drew McNeely and Areeb Shah-Mohammed and Yuwen Wang},
-      year={2024},
-      month={January},
-      eprint={2401.14669},
-      archivePrefix={arXiv},
-      primaryClass={math.ST},
-      annote={Preprint},
-      doi={10.48550/arXiv.2401.14669},
-      abstract={We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting. This comprises characterizations of hidden Markov models in terms of local and global conditional independences as well as existing algorithms for Bayesian filtering and smoothing applicable in all Markov categories with conditionals. We show that these algorithms specialize to existing ones such as the Kalman filter, forward-backward algorithm, and the Rauch-Tung-Striebel smoother when instantiated in appropriate Markov categories. Under slightly stronger assumptions, we also prove that the sequence of outputs of the Bayes filter is itself a Markov chain with a concrete formula for its transition maps.
-There are two main features of this categorical framework. The first is its generality, as it can be used in any Markov category with conditionals. In particular, it provides a systematic unified account of hidden Markov models and algorithms for filtering and smoothing in discrete probability, Gaussian probability, measure-theoretic probability, possibilistic nondeterminism and others at the same time. The second feature is the intuitive visual representation of information flow in these algorithms in terms of string diagrams.},
-    arxiv={2401.14669},
-    preview={hmmcausaldiag.png},
-    code={https://github.com/blackhole89/markovcats/tree/master},
-    selected={true}
-}
 @techreport{areeb2021HCP,
       title={Homology, Cohomology and Products},
       author={Shah Mohammed, Areeb},

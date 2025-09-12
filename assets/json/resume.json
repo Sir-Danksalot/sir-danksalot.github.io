@@ -136,22 +136,37 @@
   ],
   "publications": [
     {
-      "name": "Empirical Measures and Strong Laws of Large Numbers in Categorical Probability",
-      "publisher": "preprint",
-      "releaseDate": "27 March 2025",
-      "url": "https://arxiv.org/abs/2503.21576",
-      "summary": "We axiomatize the notion of empirical measure in the context of categorical probability and prove a strong law of large numbers for it."
+      "name": "Partializations of Markov categories",
+      "publisher": "arXiv",
+      "releaseDate": "2025-09-05",
+      "url": "https://arxiv.org/abs/2509.05094",
+      "summary": "We develop a construction of a class of positive quasi-Markov categories of spans from suitable Markov categories, called partializable Markov categories."
     },
     {
       "name": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
-      "publisher": "preprint",
-      "releaseDate": "26 January 2024",
-      "url": "https://arxiv.org/abs/2401.14669",
+      "publisher": "IEEE Transactions on Information Theory",
+      "releaseDate": "2025-07-01",
+      "url": "https://doi.org/10.1109/TIT.2025.3584695",
       "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."
+    },
+    {
+      "name": "Empirical Measures and Strong Laws of Large Numbers in Categorical Probability",
+      "publisher": "arXiv",
+      "releaseDate": "2025-03-27",
+      "url": "https://arxiv.org/abs/2503.21576",
+      "summary": "We axiomatize the notion of empirical measure in the context of categorical probability and prove a strong law of large numbers for it."
     }
   ],
   "talks": [
     {
+      "title": "Partializations of Markov categories",
+      "date": "17 July 2025",
+      "event": "International Category Theory conference 2025",
+      "location": "Masaryk University",
+      "url": "https://conference.math.muni.cz/ct2025",
+      "summary": "Delivered a talk on partializable Markov categories and their applications to categorical probability and restriction category theory."
+    },
+   {
       "title": "Partializations of Markov categories",
       "date": "4 June 2025",
       "event": "Applied Category Theory 2025",
