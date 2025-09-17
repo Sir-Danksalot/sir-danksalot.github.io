@@ -156,25 +156,11 @@ ninja.data = [{
           window.open("mailto:%41%72%65%65%62.%53%68%61%68-%4D%6F%68%61%6D%6D%65%64@%75%69%62%6B.%61%63.%61%74", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/Sir-Danksalot", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0003-6830-9098", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=cPsZhacAAAAJ", "_blank");
         },
       },{
         id: 'social-work',
@@ -184,11 +170,53 @@ ninja.data = [{
           window.open("https://www.uibk.ac.at/mathematik/personal/areeb", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=cPsZhacAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-arxiv',
+        title: 'Arxiv',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/a/shahmohammed_a_1.html", "_blank");
+        },
+      },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.uni-trier.de/pid/367/6055.html", "_blank");
+        },
+      },{
+        id: 'social-zbmath_open',
+        title: 'Zbmath_open',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://zbmath.org/authors/?q=ai:shah-mohammed.areeb", "_blank");
+        },
+      },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/931874995511063/", "_blank");
+        },
+      },{
         id: 'social-zotero',
         title: 'Zotero',
         section: 'Socials',
         handler: () => {
           window.open("https://www.zotero.org/harrierdubard", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/Sir-Danksalot", "_blank");
         },
       },{
       id: 'light-theme',
