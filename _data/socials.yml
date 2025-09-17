@@ -12,7 +12,7 @@ arxiv: # your arXiv author ID
 dblp_url: https://dblp.uni-trier.de/pid/367/6055.html # your DBLP profile url
 zbmath_open: # your zbMath author ID
   logo: assets/img/ZbMath-open-logo.png
-  title: ZbMath Open 
+  title: ZbMath Open
   url: https://zbmath.org/authors/?q=ai:shah-mohammed.areeb
 ieee_id: 931874995511063 # your ieeexplore.ieee.org/author/id
 zotero_username: harrierdubard # your zotero username
