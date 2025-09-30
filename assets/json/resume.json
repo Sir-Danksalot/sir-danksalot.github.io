@@ -191,6 +191,16 @@
       "summary": "Delivered a talk on formulating hidden Markov models and Bayesian filtering in Markov categories."
     }
   ],
+  "service": [
+    {
+      "name": "Zentralblatt MATH (zbMATH Open)",
+      "position": "Reviewer",
+      "url": "https://zbmath.org/",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Activities involved providing reviews of published articles and books in and related to mathematics."
+    }
+  ],
   "awards": [
     {
       "title": "CMI Medal of Excellence",
