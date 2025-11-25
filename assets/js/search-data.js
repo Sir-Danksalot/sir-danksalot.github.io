@@ -205,6 +205,13 @@ ninja.data = [{
           window.open("https://ieeexplore.ieee.org/author/931874995511063/", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/areeb-sm-04986b159", "_blank");
+        },
+      },{
         id: 'social-zotero',
         title: 'Zotero',
         section: 'Socials',
