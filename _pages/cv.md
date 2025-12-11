@@ -5,7 +5,8 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: areeb_cv.pdf # you can also use external links here
-description: Here is a (hopefully relatively recently updated) CV. A pdf version can be reached by clicking the icon labeled "pdf" (which should also specify how recent it is).
+research_statement_pdf: researchStatement.pdf # you can also use external links here
+description: Here is a (hopefully relatively recently updated) CV. A pdf version can be reached by clicking the icon labeled "pdf" (which should also specify how recent it is). You can also view my research statement by clicking the chalkboard icon to its right.
 toc:
   sidebar: left
 ---
