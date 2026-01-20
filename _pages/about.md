@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-**I am currently looking for postdocs for next year! If you think I might be relevant for a position of yours, please reach out!**
 
 ### Hello World!
 
